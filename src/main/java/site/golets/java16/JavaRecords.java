@@ -1,6 +1,6 @@
-package site.golets;
+package site.golets.java16;
 
-public class RecordsRunner {
+public class JavaRecords {
 
     // Java 16
    record Person(String name, String email, String phoneNumber){}
